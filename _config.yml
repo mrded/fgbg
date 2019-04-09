@@ -5,8 +5,6 @@ description: >- # this means to ignore newlines
   the green on both sides of Bounds Green Road from the Ranelagh pub down to the A406. 
 baseurl: "/"
 url: "https://www.fgbg.org.uk"
-plugins:
-  - jekyll-feed
 markdown: kramdown
 theme: minima
 excerpt_separator: <!--more-->

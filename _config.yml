@@ -9,6 +9,7 @@ plugins:
   - jekyll-relative-links
   - jekyll-feed
 markdown: kramdown
+theme: minima
 relative_links:
   enabled: true
   collections: true

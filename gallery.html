@@ -1,0 +1,23 @@
+---
+layout: page 
+title: Gallery 
+permalink: /gallery/
+photos:
+  - path: /assets/photos/0.png
+  - path: /assets/photos/1.png
+  - path: /assets/photos/2.png
+  - path: /assets/photos/3.jpg
+  - path: /assets/photos/4.jpg
+  - path: /assets/photos/5.jpg
+  - path: /assets/photos/6.jpg
+  - path: /assets/photos/7.jpg
+  - path: /assets/photos/8.jpg
+  - path: /assets/photos/9.jpg
+  - path: /assets/photos/10.jpg
+---
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  {% for photo in page.photos %}
+    <div><img src="{{ photo.path }}" style="width: 360px; padding: 5px;"/></div>
+  {% endfor %}
+</div>

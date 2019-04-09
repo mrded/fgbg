@@ -6,4 +6,4 @@ relative_links:
 include:
   - README.md
   - about.md
-- governance.md
+  - governance.md

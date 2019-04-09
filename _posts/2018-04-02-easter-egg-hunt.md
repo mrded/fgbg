@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "Easter Egg Hunt a Huge Success!"
+title:  Easter Egg Hunt a Huge Success!
 date:   2018-04-02 00:00:00 +0000
-categories: jekyll update
 ---
 # Easter Egg Hunt a Huge Success!
 

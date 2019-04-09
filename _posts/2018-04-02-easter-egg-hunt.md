@@ -1,4 +1,10 @@
-#Easter Egg Hunt a Huge Success!
+---
+layout: post
+title:  "Easter Egg Hunt a Huge Success!"
+date:   2018-04-02 00:00:00 +0000
+categories: jekyll update
+---
+# Easter Egg Hunt a Huge Success!
 
 Despite the very wet weather we had around 100 people turn up for our first ever Easter Egg Hunt - it was exciting and inspiring to see so many local families come out for it.
 Children had lots of fun walking around the green and filling out their activity sheets, and they especially enjoyed making Stick Men from natural materials.

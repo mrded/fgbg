@@ -1,3 +1,9 @@
+---
+layout: page
+title: Governance 
+permalink: /governance/
+---
+
 # FGBG Constitution
 
 ## FRIENDS OF THE GREEN, BOUNDS GREEN (FGBG) — Constitution 

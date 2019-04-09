@@ -2,6 +2,7 @@
 layout: post
 title:  Easter Egg Hunt a Huge Success!
 date:   2018-04-02 00:00:00 +0000
+categories: [news]
 ---
 # Easter Egg Hunt a Huge Success!
 

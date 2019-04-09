@@ -18,6 +18,6 @@ photos:
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   {% for photo in page.photos %}
-    <div><img src="{{ photo.path }}" style="width: 360px; padding: 5px;"/></div>
+    <div><img src="{{site.url}}{{ photo.path }}" style="width: 360px; padding: 5px;"/></div>
   {% endfor %}
 </div>

@@ -6,7 +6,6 @@ description: >- # this means to ignore newlines
 baseurl: ""
 url: "https://www.fgbg.org.uk"
 plugins:
-  - jekyll-relative-links
   - jekyll-feed
 markdown: kramdown
 theme: minima

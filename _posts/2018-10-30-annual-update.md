@@ -4,9 +4,8 @@ title:  Annual Update
 date:   2018-10-30 00:00:00 +0000
 categories: [news]
 ---
-# Annual Update
-
-It was great to see so many of you at the recent AGM and to have so much support over the past year. We very much hope you join us for another year and we see as many of you as possible at the Christmas Carols on Saturday 15 December at 3.30pm.  
+It was great to see so many of you at the recent AGM and to have so much support over the past year. We very much hope you join us for another year and we see as many of you as possible at the Christmas Carols on Saturday 15 December at 3.30pm.
+<!--more-->
 
 ## Membership for 2019
 

@@ -1,4 +1,4 @@
-title: Friends of the Green Bounds Green (FGBG) 
+title: Friends of the Green Bounds Green 
 email: friendsofthegreenboundsgreen@gmail.com 
 description: >- # this means to ignore newlines
   We are a local community group of Friends, committed to improving
@@ -9,6 +9,7 @@ plugins:
   - jekyll-feed
 markdown: kramdown
 theme: minima
+excerpt_separator: <!--more-->
 relative_links:
   enabled: true
   collections: true

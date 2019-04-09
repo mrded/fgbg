@@ -1,5 +1,15 @@
+title: Friends of the Green Bounds Green (FGBG) 
+email: friendsofthegreenboundsgreen@gmail.com 
+description: >- # this means to ignore newlines
+  We are a local community group of Friends, committed to improving
+  the green on both sides of Bounds Green Road from the Ranelagh pub down to the A406. 
+baseurl: ""
+url: "https://www.fgbg.org.uk"
 plugins:
   - jekyll-relative-links
+  - jekyll-feed
+markdown: kramdown
+theme: minima
 relative_links:
   enabled: true
   collections: true

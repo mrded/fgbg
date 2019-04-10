@@ -8,3 +8,4 @@ url: "https://mrded.github.io/fgbg"
 markdown: kramdown
 theme: minima
 excerpt_separator: <!--more-->
+google_analytics: UA-138183284-1

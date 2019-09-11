@@ -1,52 +1,38 @@
-- name: Rose Garden Launch and The Bounds Green Bake Off
-  date: Sunday, June 2, 2019 3:00 PM - 4:00 PM 
-  description: >-
-    Rose Garden (Phase 1 launch).
+- name: Litter Picking & Gardening
+  date: Saturday, September 21, 2019
 
-    We’re having the official opening of the Bounds Green rose garden (phase 1) and the Bounds Green Bake-Off. 
+- name: Litter Picking & Gardening
+  date: Saturday, October 19, 2019
 
-    To enter your cake, please arrive at 2.45 with your cake and a print out (or very clear handwriting) that states the following: 
+- name: Litter Picking & Gardening
+  date: Saturday, November 16, 2019
 
-    - Your full name 
-
-    - Your email address
-
-    - All the ingredients
-
-    - Cake name
-      
-    All profits from cake sales will go to FGBG to help us improve and maintain the Green for all to enjoy.
-
-- name: Litter Picking
-  date: Saturday, June 15, 2019 10:00 AM - 12:00 PM 
-  location: We will have a table on the concrete circle just down from the play area. 
-  description: Come and say hello, get your litter picker and bin bags and sign in with us, and we'll advise you on where to go and what to do. If the weather is very bad please look out for updates on whether it will go ahead, or be rescheduled. 
-
-- name: Litter Picking
-  date: Saturday, July 20, 2019 10:00 AM 12:00 PM 
-  location: We will have a table on the concrete circle just down from the play area. 
-  description: Come and say hello, get your litter picker and bin bags and sign in with us, and we'll advise you on where to go and what to do. If the weather is very bad please look out for updates on whether it will go ahead, or be rescheduled. <Paste>
-
-- name: Litter Picking
-  date: Saturday, September 21, 2019 10:00 AM 12:00 PM 
-  location: We will have a table on the concrete circle just down from the play area. 
-  description: Come and say hello, get your litter picker and bin bags and sign in with us, and we'll advise you on where to go and what to do. If the weather is very bad please look out for updates on whether it will go ahead, or be rescheduled. 
-
-- name: Litter Picking
-  date: Saturday, October 19, 2019 10:00 AM 12:00 PM 
-  location: We will have a table on the concrete circle just down from the play area. 
-  description: Come and say hello, get your litter picker and bin bags and sign in with us, and we'll advise you on where to go and what to do. If the weather is very bad please look out for updates on whether it will go ahead, or be rescheduled. 
-
-- name: Litter Picking
-  date: Saturday, October 19, 2019 10:00 AM 12:00 PM 
-  location: We will have a table on the concrete circle just down from the play area. 
-  description: Come and say hello, get your litter picker and bin bags and sign in with us, and we'll advise you on where to go and what to do. If the weather is very bad please look out for updates on whether it will go ahead, or be rescheduled. 
-
-- name: Litter Picking
-  date: Saturday, November 16, 2019 10:00 AM 12:00 PM 
-  location: We will have a table on the concrete circle just down from the play area. 
-  description: Come and say hello, get your litter picker and bin bags and sign in with us, and we'll advise you on where to go and what to do. If the weather is very bad please look out for updates on whether it will go ahead, or be rescheduled. 
+- name: Litter Picking & Gardening
+  date: Saturday, December 07, 2019 1.00 PM – 3.00 PM
 
 - name: Carols on the Green
-  date: Saturday, December 14, 2019 3:30 PM 5:00 PM 
-  description: We are happy to announce the annual FGBG Christmas Carols on the Green, Saturday 14 December, 15.30-17.00, on the Green or in the Ranelagh if poor weather. 
+  date: Saturday, December 07, 2019 3.30 PM – 4.30 PM
+
+- name: Litter Picking & Gardening
+  date: Saturday, January 18, 2020
+
+- name: AGM, Family Quiz and Bring a Dish, Shaftesbury Hall
+  date: Saturday, January 18, 2020 5.00 PM – 8.00 PM
+
+- name: Litter Picking & Gardening
+  date: Saturday, February 15, 2020
+
+- name: Litter Picking & Gardening
+  date: Saturday, March 21, 2020
+
+- name: Litter Picking & Gardening
+  date: Saturday, April 18, 2020
+
+- name: Litter Picking & Gardening
+  date: Saturday, May 16, 2020
+
+- name: Litter Picking & Gardening
+  date: Saturday, June 20, 2020
+
+- name: Litter Picking & Gardening
+  date: Saturday, July 18, 2020

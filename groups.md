@@ -1,6 +1,6 @@
 ---
 layout: page
-title: BOUNDS GREEN NORTH NEIGHBOURS’ NETWORK: LIST OF GROUPS
+title: Groups
 permalink: /groups/
 ---
 

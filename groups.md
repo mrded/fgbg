@@ -10,7 +10,6 @@ EMAIL: BGNORTHNN@GMAIL.COM
 
 Area Rep Emmy Beazley-Williams bgnorthnn@gmail.com
 
-
 |                         Group Name                          |            Street Email             |                              Street Facebook                              |
 |-------------------------------------------------------------|-------------------------------------|---------------------------------------------------------------------------|
 | Bounds Green North Neighbours’ Network: Station to Ranelagh | stationtoranelagh@gmail.com         | Bounds Green North Neighbours’ Network: Station to Ranelagh               |
@@ -30,11 +29,9 @@ Area Rep Emmy Beazley-Williams bgnorthnn@gmail.com
 | Warwick and Union Roads Covid19 Support Network             | warwick-action@virginmedia.com      | No facebook                                                               |
 | Bounds Green North Neighbours’ Network: York to Wakefield   | yorktowakefield@gmail.com           | Bounds Green Neighbours’ Network: York, Lancaster, Bosworth and Wakefield |
 
+## Other groups across the area
 
-
-## Other groups across the area:
-
-### Bounds Green Mutual Aid:
+### Bounds Green Mutual Aid
 
 Helpline: 07933 680 896 (Please call this number in the first instance or if it is urgent)
 

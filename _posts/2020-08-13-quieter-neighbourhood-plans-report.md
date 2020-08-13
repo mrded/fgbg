@@ -25,8 +25,6 @@ Next steps:
 
 [The full report can be found here](https://mcusercontent.com/2d8bb51dd0ae6586da9d575fe/files/1d5ae5d1-96be-4152-a59d-76317691a9c8/Bowes_Primary_LTN_FGBG_Report_12.08.20.pdf)
 
-This draws me to my personal position on this which I want to be totally transparent about. I personally cannot support the plans when a large majority are so clearly against them and for this reason, I will be campaigning for revised plans with Bounds and Bowes Voice as an individual. I plan to remain as chair of FGBG as we have a lot of important work taking place. I have the support of the committee to do this and hope you as members understand my position.
-
 In the interests of fairness, please see the contact details below for the various groups and campaign groups in the area:
 
 - [Better Streets for Enfield](https://www.facebook.com/groups/1491332947831990)

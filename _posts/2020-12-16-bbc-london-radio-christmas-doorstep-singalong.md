@@ -17,3 +17,5 @@ Our local group (seperate from the BBC) will also be raising funds for Mind to h
 On the day, go to your doorstep and tune into BBC Radio London on 94.9 FM in London or search for BBC London on BBCSounds or Sky 0152, Freesat 718, Freeview 721, Virgin 937
 
 And don't worry if you don't live in Bounds Green or Bowes Park - you can make this happen anywhere, so please join us - the more the merrier!
+
+![Xmas 2020 Singalong Final 23 11 20 V2](https://user-images.githubusercontent.com/347098/100148012-0fcc0b00-2e94-11eb-8c0f-98f2b40d6b61.png)

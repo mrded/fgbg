@@ -4,31 +4,6 @@ title: Groups
 permalink: /groups/
 ---
 
-## FACEBOOK: BOUNDS & BOWES NEIGHBOURS’ NETWORK
-
-EMAIL: BGNORTHNN@GMAIL.COM
-
-Area Rep Emmy Beazley-Williams bgnorthnn@gmail.com
-
-|                         Group Name                          |            Street Email             |                              Street Facebook                              |
-|-------------------------------------------------------------|-------------------------------------|---------------------------------------------------------------------------|
-| Bounds Green North Neighbours’ Network: Station to Ranelagh | stationtoranelagh@gmail.com         | Bounds Green North Neighbours’ Network: Station to Ranelagh               |
-| Brownlow Road Covid Community Support                       | lquarterman@gmail.com               | Brownlow Road Covid Community Support                                     |
-| Evesham Road Residents' group                               | eveshamroadn11@gmail.com            | Evesham Road Residents’ Group                                             |
-| Hastings, Pevensy and Bexhill                               | Existing group, but no public email | No facebook                                                               |
-| Highworth Road                                              | Existing group, but no public email | No facebook                                                               |
-| Lower Maidstone Road, N11                                   | lowermaidstone@gmail.com            | Lower Maidstone Road - N11                                                |
-| Maidstone Road (Middle)                                     | maidstoneroadn11@gmail.com          | Maidstone Road Community                                                  |
-| Natal Road                                                  | natalroadn11@gmail.com              | Natal Road N11                                                            |
-| North Circular                                              | bgnorthcircular@gmail.com           | Bounds Green North Neighbours’ Network: North Circular                    |
-| Ollerton Road                                               | Existing group, but no public email | No facebook                                                               |
-| Stanley Road                                                | Existing group, but no public email | No facebook                                                               |
-| Shrewsbury Road                                             | Existing group, but no public email | No facebook                                                               |
-| Tewkesbury Terrace Community                                | tewkesburyterracen11@gmail.com      | No facebook                                                               |
-| BG Together (Upper Maidstone Road)                          | BoundsGreenTogether@gmail.com       | BG Together                                                               |
-| Warwick and Union Roads Covid19 Support Network             | warwick-action@virginmedia.com      | No facebook                                                               |
-| Bounds Green North Neighbours’ Network: York to Wakefield   | yorktowakefield@gmail.com           | Bounds Green Neighbours’ Network: York, Lancaster, Bosworth and Wakefield |
-
 ## Other groups across the area
 
 ### Bounds Green Mutual Aid

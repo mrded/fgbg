@@ -14,8 +14,13 @@ _{{ event.date }}_
 * * *
 {% endfor %}
 
-N.B. Litter Picking & Gardening is always 09.00 – 11.00 except for the Christmas litter pick which is as listed and we do not run one in August.
+N.B. Litter Picking & Gardening is generally 09.30 – 11.00 on the first Saturday of the month.  
+We meet on the Ranelagh side of the road by the concrete circle near Tewkesbury Terrace. Litter pickers & bin bags are provided. 
 
-We always meet on the Ranelagh side of the road by the con- crete circle near Tewkesbury Terrace for litter picking and gardening. Litter pickers, bin bags and refresh- ments will be provided. 
+Please check our social media pages for regular updates and please wear suitable clothing and weather protection.
 
-Please check [Facebook](https://www.facebook.com/groups/friendsofthegreenboundsgreen/) for regular updates and please wear suitable clothing and weather protection.
+<a href="https://www.facebook.com/fgbg.uk/" target="_Blank">FGBG Facebook Page</a>
+
+<a href="https://www.instagram.com/fgbglondon?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_Blank">FGBG Instagram</a>
+
+

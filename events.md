@@ -3,16 +3,6 @@ layout: page
 title: Events 
 permalink: /events/
 ---
-{% for event in site.data.events %}
-### {{ event.name }}
-_{{ event.date }}_
-
-{{ event.location }}
-
-{{ event.description }}
-
-* * *
-{% endfor %}
 
 N.B. Litter Picking & Gardening is generally 09.30 – 11.00 on the first Saturday of the month.  
 We meet on the Ranelagh side of the road by the concrete circle near Tewkesbury Terrace. Litter pickers & bin bags are provided. 
